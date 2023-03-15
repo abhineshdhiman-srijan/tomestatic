@@ -79,7 +79,7 @@
       A unique machine-readable name. Can only contain lowercase letters, numbers, and underscores.
     </div>
   </div>
-<input autocomplete="off" data-drupal-selector="form-mrwtl4jdfhyugdiras381vowf0zfyaeipcwgs-ewk4s" type="hidden" name="form_build_id" value="form-MrWTL4jDfhYugdirAS381VoWf0ZfyaEipcWGs_ewK4s" />
+<input autocomplete="off" data-drupal-selector="form-xkvb-8wtcp5j1nmufb2fvc5oja1uhppt-sir9blkorw" type="hidden" name="form_build_id" value="form-XKVb-8WtCP5j1nmuFB2FVC5oJa1UhpPT_sir9BLkOrw" />
 <input data-drupal-selector="edit-entity-view-mode-edit-form" type="hidden" name="form_id" value="entity_view_mode_edit_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Save" class="button button--primary js-form-submit form-submit" />
 <a href="/admin/structure/display-modes/view/manage/paragraph.gallery_media/delete" class="button button--danger" data-drupal-selector="edit-delete" id="edit-delete">Delete</a></div>
@@ -108,7 +108,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/view\/manage\/paragraph.gallery_media","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"q9_UK7-gSTCFOxquMSxWAqsw06A8OTC3K6vuZIUU9jA"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/view\/manage\/paragraph.gallery_media","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"W00TufTQaIwm_luWekrwQCmwq7hk_BprbtANQHyhnwA"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
 <script src="/sites/default/files/js/js_WkRosCYl7lFYrb3G4NKDyBFrUBOK8PQwDoDNd54Optc.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
