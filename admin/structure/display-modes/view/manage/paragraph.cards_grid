@@ -37,7 +37,7 @@
     
 
       <a href="/" title=Home rel="home page">
-  <img  src=/tomestatic/themes/contrib/ezcontent_theme/logo.svg  class="logo"  alt=Home  />
+  <img  src=/themes/contrib/ezcontent_theme/logo.svg  class="logo"  alt=Home  />
 </a>
   </section>
 
@@ -79,7 +79,7 @@
       A unique machine-readable name. Can only contain lowercase letters, numbers, and underscores.
     </div>
   </div>
-<input autocomplete="off" data-drupal-selector="form-jorkmz34dd58vvtz0-iyxmi4qwwivhzorg0rh98g6gi" type="hidden" name="form_build_id" value="form-jOrKmZ34DD58VvTZ0-IyXMi4qWWivHZorg0rh98G6GI" />
+<input autocomplete="off" data-drupal-selector="form-6npagjkxrs7zmv6z1n7tl2zzx8hj1tk-tthlbgcqq-4" type="hidden" name="form_build_id" value="form-6nPAgjkxrS7ZMv6Z1N7tl2zZx8HJ1TK_TtHLbGCQQ_4" />
 <input data-drupal-selector="edit-entity-view-mode-edit-form" type="hidden" name="form_id" value="entity_view_mode_edit_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Save" class="button button--primary js-form-submit form-submit" />
 <a href="/admin/structure/display-modes/view/manage/paragraph.cards_grid/delete" class="button button--danger" data-drupal-selector="edit-delete" id="edit-delete">Delete</a></div>
@@ -108,7 +108,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/view\/manage\/paragraph.cards_grid","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"t9INTHkzxmn4FKjB23BGxT5iEA_gCVEWDCRv2Uopw6w"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/view\/manage\/paragraph.cards_grid","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"duGRxI5N0VYUzzlThIMhN1emriZDQ1Z-1wtJLo9hDFI"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
 <script src="/sites/default/files/js/js_WkRosCYl7lFYrb3G4NKDyBFrUBOK8PQwDoDNd54Optc.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
