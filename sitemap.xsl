@@ -12,10 +12,10 @@
       <head>
         <title>Sitemap file</title>
         <script type="text/javascript" src="/core/assets/vendor/jquery/jquery.min.js"/>
-        <script type="text/javascript" src="/modules/contrib/simple_sitemap/xsl/jquery.tablesorter.min.js"/>
-        <script type="text/javascript" src="/modules/contrib/simple_sitemap/xsl/parser-date-iso8601.min.js"/>
-        <script type="text/javascript" src="/modules/contrib/simple_sitemap/xsl/simple_sitemap.xsl.js"/>
-        <link href="/modules/contrib/simple_sitemap/xsl/simple_sitemap.xsl.css" type="text/css" rel="stylesheet"/>
+        <script type="text/javascript" src="/tomestatic/modules/contrib/simple_sitemap/xsl/jquery.tablesorter.min.js"/>
+        <script type="text/javascript" src="/tomestatic/modules/contrib/simple_sitemap/xsl/parser-date-iso8601.min.js"/>
+        <script type="text/javascript" src="/tomestatic/modules/contrib/simple_sitemap/xsl/simple_sitemap.xsl.js"/>
+        <link href="/tomestatic/modules/contrib/simple_sitemap/xsl/simple_sitemap.xsl.css" type="text/css" rel="stylesheet"/>
       </head>
       <body>
         <h1>Sitemap file</h1>

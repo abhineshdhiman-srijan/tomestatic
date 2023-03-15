@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://abhineshdhiman-srijan.github.io/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/tomestatic/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://abhineshdhiman-srijan.github.io/">
   <channel>
     <title>Drupal9</title>
     <link>https://abhineshdhiman-srijan.github.io/</link>
@@ -8,7 +8,7 @@
     
     <item>
   <title>Phineas and Ferb</title>
-  <link>https://abhineshdhiman-srijan.github.io/article/phineas-and-ferb</link>
+  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/phineas-and-ferb</link>
   <description>&lt;span&gt;Phineas and Ferb&lt;/span&gt;
 &lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:25&lt;/span&gt;
@@ -16,32 +16,32 @@
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -69,7 +69,7 @@
     </item>
 <item>
   <title>With EzContent Utilize Headless Features without Losing Must-Haves</title>
-  <link>https://abhineshdhiman-srijan.github.io/article/ezcontent-utilize-headless-features-without-losing-must-haves</link>
+  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/ezcontent-utilize-headless-features-without-losing-must-haves</link>
   <description>&lt;span&gt;With EzContent Utilize Headless Features without Losing Must-Haves&lt;/span&gt;
 &lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:18&lt;/span&gt;
@@ -77,32 +77,32 @@
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -271,7 +271,7 @@
     </item>
 <item>
   <title>EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers</title>
-  <link>https://abhineshdhiman-srijan.github.io/article/ezcontent-intelligent-drupal-distro-publishers-marketers</link>
+  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/ezcontent-intelligent-drupal-distro-publishers-marketers</link>
   <description>&lt;span&gt;EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers&lt;/span&gt;
 &lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:15&lt;/span&gt;
@@ -279,32 +279,32 @@
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -331,7 +331,7 @@
     </item>
 <item>
   <title>What is Lorem Ipsum?</title>
-  <link>https://abhineshdhiman-srijan.github.io/article/what-lorem-ipsum</link>
+  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/what-lorem-ipsum</link>
   <description>&lt;span&gt;What is Lorem Ipsum?&lt;/span&gt;
 &lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Mon, 03/13/2023 - 07:50&lt;/span&gt;
@@ -339,32 +339,32 @@
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
         &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
