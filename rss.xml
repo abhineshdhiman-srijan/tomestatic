@@ -1,47 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/tomestatic/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://abhineshdhiman-srijan.github.io/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://adorable-biscuit-1c9bf2.netlify.app/">
   <channel>
     <title>Drupal9</title>
-    <link>https://abhineshdhiman-srijan.github.io/</link>
+    <link>https://adorable-biscuit-1c9bf2.netlify.app/</link>
     <description/>
     <language>en</language>
     
     <item>
+  <title>Powerful Landing Page Builder</title>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/powerful-landing-page-builder</link>
+  <description>&lt;span&gt;Powerful Landing Page Builder&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Thu, 03/16/2023 - 05:49&lt;/span&gt;
+
+						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
+  &lt;ul class=""&gt;&lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+
+
+  &lt;/section&gt;&lt;/div&gt;
+			
+			&lt;div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items"&gt;
+							&lt;div class="field__item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
+          
+						&lt;div class="field field--name-field-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Lets editors create visual layouts for displaying content without dependency on the developer. With Drupal’s layout builder functionality, editors can drag and drop site-wide blocks and content fields. Manage blocks using reusable components and add regions on the fly.&lt;/p&gt;&lt;/div&gt;
+			
+      &lt;/div&gt;
+&lt;/div&gt;
+					&lt;/div&gt;
+	</description>
+  <pubDate>Thu, 16 Mar 2023 05:49:17 +0000</pubDate>
+    <dc:creator>abhi</dc:creator>
+    <guid isPermaLink="false">7 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
+    </item>
+<item>
+  <title>Create and publish great content easily.</title>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/create-and-publish-great-content-easily</link>
+  <description>&lt;span&gt;Create and publish great content easily.&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Thu, 03/16/2023 - 05:48&lt;/span&gt;
+
+						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
+  &lt;ul class=""&gt;&lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+
+
+  &lt;/section&gt;&lt;/div&gt;
+			
+			&lt;div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items"&gt;
+							&lt;div class="field__item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
+          
+						&lt;div class="field field--name-field-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Content creation and publishing don’t need to be chaotic. Build a rich content model with WYSIWYG, preview, layout builder, paragraphs, drag, and drop the content wherever you like it.&lt;br /&gt;
+Create content with utmost ease! &lt;/p&gt;&lt;/div&gt;
+			
+      &lt;/div&gt;
+&lt;/div&gt;
+					&lt;/div&gt;
+	</description>
+  <pubDate>Thu, 16 Mar 2023 05:48:56 +0000</pubDate>
+    <dc:creator>abhi</dc:creator>
+    <guid isPermaLink="false">6 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
+    </item>
+<item>
   <title>Phineas and Ferb</title>
-  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/phineas-and-ferb</link>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/phineas-and-ferb</link>
   <description>&lt;span&gt;Phineas and Ferb&lt;/span&gt;
-&lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:25&lt;/span&gt;
 
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -65,44 +178,44 @@
 	</description>
   <pubDate>Wed, 15 Mar 2023 05:25:16 +0000</pubDate>
     <dc:creator>abhi</dc:creator>
-    <guid isPermaLink="false">5 at https://abhineshdhiman-srijan.github.io</guid>
+    <guid isPermaLink="false">5 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
     </item>
 <item>
   <title>With EzContent Utilize Headless Features without Losing Must-Haves</title>
-  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/ezcontent-utilize-headless-features-without-losing-must-haves</link>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/ezcontent-utilize-headless-features-without-losing-must-haves</link>
   <description>&lt;span&gt;With EzContent Utilize Headless Features without Losing Must-Haves&lt;/span&gt;
-&lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:18&lt;/span&gt;
 
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -153,7 +266,7 @@
 
 
 
-                  &lt;div data-thumb="/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/herooo222_0.png?itok=9Zd9kx3B" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/herooo222_0.png?itok=kf9t79sg","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
+                  &lt;div data-thumb="/sites/default/files/styles/gallery/public/2023-03/herooo222_0.png?itok=9Zd9kx3B" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/herooo222_0.png?itok=kf9t79sg","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
         
   
 
@@ -169,7 +282,7 @@
 
 
 
-                  &lt;div data-thumb="/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/create_content_1.png?itok=iI3B8LwG" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/create_content_1.png?itok=aSg5zCM0","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
+                  &lt;div data-thumb="/sites/default/files/styles/gallery/public/2023-03/create_content_1.png?itok=iI3B8LwG" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/create_content_1.png?itok=aSg5zCM0","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
         
   
 
@@ -185,7 +298,7 @@
 
 
 
-                  &lt;div data-thumb="/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/ai_content_1.png?itok=JPQiWZMG" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/ai_content_1.png?itok=8zsjC5AQ","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
+                  &lt;div data-thumb="/sites/default/files/styles/gallery/public/2023-03/ai_content_1.png?itok=JPQiWZMG" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/ai_content_1.png?itok=8zsjC5AQ","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
         
   
 
@@ -201,7 +314,7 @@
 
 
 
-                  &lt;div data-thumb="/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/screen_shot_2020-10-06_at_11.44.54_am.png?itok=JsyhPkry" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/screen_shot_2020-10-06_at_11.44.54_am.png?itok=5fwGjmFD","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
+                  &lt;div data-thumb="/sites/default/files/styles/gallery/public/2023-03/screen_shot_2020-10-06_at_11.44.54_am.png?itok=JsyhPkry" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/screen_shot_2020-10-06_at_11.44.54_am.png?itok=5fwGjmFD","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
         
   
 
@@ -217,7 +330,7 @@
 
 
 
-                  &lt;div data-thumb="/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/test.png?itok=zIpCenLc" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/test.png?itok=tJ888XZ6","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
+                  &lt;div data-thumb="/sites/default/files/styles/gallery/public/2023-03/test.png?itok=zIpCenLc" class="media media--blazy b-lazy b-bg media--slick media--bundle--image media--image media--ratio media--ratio--fluid is-b-loading" data-src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20300%20250'%2F%3E" data-b-bg="{"1600":{"src":"\/sites\/default\/files\/styles\/hero_media\/public\/2023-03\/test.png?itok=tJ888XZ6","ratio":37.5}}" style="padding-bottom: 37.5%;" data-ratio="37.5"&gt;        &lt;/div&gt;
         
   
 
@@ -235,19 +348,19 @@
       &lt;div id="slick-paragraph-gallery-media-items-gallery-carousel-11-1-thumbnail-slider" data-slick="{"asNavFor":"#slick-paragraph-gallery-media-items-gallery-carousel-11-1-slider","adaptiveHeight":true,"centerMode":true,"centerPadding":"0","dots":true,"dotsClass":"slick-dots--thumbnail-grid slick-dots d-none","focusOnSelect":true,"mouseWheel":true,"slide":".slick__slide","slidesToShow":20,"useTransform":false,"easing":"","waitForAnimate":false}" class="slick__slider"&gt;
   
         &lt;div class="slick__slide slide slide--0"&gt;
-          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://abhineshdhiman-srijan.github.io/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/herooo222_0.png?itok=9Zd9kx3B" width="300" height="250" alt="zk" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/herooo222_0.png?itok=9Zd9kx3B" width="300" height="250" alt="zk" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
           &lt;/div&gt;
   &lt;div class="slick__slide slide slide--1"&gt;
-          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://abhineshdhiman-srijan.github.io/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/create_content_1.png?itok=iI3B8LwG" width="300" height="250" alt="ika" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/create_content_1.png?itok=iI3B8LwG" width="300" height="250" alt="ika" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
           &lt;/div&gt;
   &lt;div class="slick__slide slide slide--2"&gt;
-          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://abhineshdhiman-srijan.github.io/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/ai_content_1.png?itok=JPQiWZMG" width="300" height="250" alt="js" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/ai_content_1.png?itok=JPQiWZMG" width="300" height="250" alt="js" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
           &lt;/div&gt;
   &lt;div class="slick__slide slide slide--3"&gt;
-          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://abhineshdhiman-srijan.github.io/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/screen_shot_2020-10-06_at_11.44.54_am.png?itok=JsyhPkry" width="300" height="250" alt="s" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/screen_shot_2020-10-06_at_11.44.54_am.png?itok=JsyhPkry" width="300" height="250" alt="s" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
           &lt;/div&gt;
   &lt;div class="slick__slide slide slide--4"&gt;
-          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://abhineshdhiman-srijan.github.io/tomestatic/tomestatic/sites/default/files/styles/gallery/public/2023-03/test.png?itok=zIpCenLc" width="300" height="250" alt="wd" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
+          &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/test.png?itok=zIpCenLc" width="300" height="250" alt="wd" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
           &lt;/div&gt;
 
   
@@ -267,44 +380,44 @@
 	</description>
   <pubDate>Wed, 15 Mar 2023 05:18:44 +0000</pubDate>
     <dc:creator>abhi</dc:creator>
-    <guid isPermaLink="false">4 at https://abhineshdhiman-srijan.github.io</guid>
+    <guid isPermaLink="false">4 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
     </item>
 <item>
   <title>EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers</title>
-  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/ezcontent-intelligent-drupal-distro-publishers-marketers</link>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/ezcontent-intelligent-drupal-distro-publishers-marketers</link>
   <description>&lt;span&gt;EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers&lt;/span&gt;
-&lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:15&lt;/span&gt;
 
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -327,44 +440,44 @@
 	</description>
   <pubDate>Wed, 15 Mar 2023 05:15:24 +0000</pubDate>
     <dc:creator>abhi</dc:creator>
-    <guid isPermaLink="false">3 at https://abhineshdhiman-srijan.github.io</guid>
+    <guid isPermaLink="false">3 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
     </item>
 <item>
   <title>What is Lorem Ipsum?</title>
-  <link>https://abhineshdhiman-srijan.github.io/tomestatic/article/what-lorem-ipsum</link>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/what-lorem-ipsum</link>
   <description>&lt;span&gt;What is Lorem Ipsum?&lt;/span&gt;
-&lt;span&gt;&lt;span lang="" about="https://abhineshdhiman-srijan.github.io/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Mon, 03/13/2023 - 07:50&lt;/span&gt;
 
 						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
   &lt;ul class=""&gt;&lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=" title="Facebook"&gt;
-                      &lt;img alt="Facebook" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://abhineshdhiman-srijan.github.io/rss.xml'})" title="Facebook messenger"&gt;
-                      &lt;img alt="Facebook messenger" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;title=&amp;source=https://abhineshdhiman-srijan.github.io/rss.xml" title="Linkedin"&gt;
-                      &lt;img alt="Linkedin" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
-                      &lt;img alt="Twitter" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://abhineshdhiman-srijan.github.io/rss.xml&amp;description=" title="Pinterest"&gt;
-                      &lt;img alt="Pinterest" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
                 &lt;li&gt;
-        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://abhineshdhiman-srijan.github.io/rss.xml" title="Email"&gt;
-                      &lt;img alt="Email" src="https://abhineshdhiman-srijan.github.io/tomestatic/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
 
       &lt;/li&gt;
       &lt;/ul&gt;&lt;/div&gt;
@@ -521,7 +634,7 @@
 	</description>
   <pubDate>Mon, 13 Mar 2023 07:50:34 +0000</pubDate>
     <dc:creator>abhi</dc:creator>
-    <guid isPermaLink="false">1 at https://abhineshdhiman-srijan.github.io</guid>
+    <guid isPermaLink="false">1 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
     </item>
 
   </channel>
