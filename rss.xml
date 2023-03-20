@@ -109,7 +109,9 @@
 							&lt;div class="field__item"&gt;  &lt;div class="paragraph paragraph--type--text paragraph--view-mode--default"&gt;
           
 						&lt;div class="field field--name-field-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Content creation and publishing don’t need to be chaotic. Build a rich content model with WYSIWYG, preview, layout builder, paragraphs, drag, and drop the content wherever you like it.&lt;br /&gt;
-Create content with utmost ease! &lt;/p&gt;&lt;/div&gt;
+Create content with utmost ease! &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/p&gt;&lt;/div&gt;
 			
       &lt;/div&gt;
 &lt;/div&gt;
@@ -255,8 +257,8 @@ Create content with utmost ease! &lt;/p&gt;&lt;/div&gt;
       &lt;section class="gallery-carousel paragraph--type--gallery-carousel" aria-label="gallery carousel"&gt;&lt;div class="wrapper"&gt;
     
             &lt;div class="slick-wrapper slick-wrapper--asnavfor slick-wrapper--default"&gt;
-    &lt;div class="slick blazy slick--field slick--field-media-items slick--field-media-items--gallery-carousel slick--skin--default slick--optionset--ezcontent-setting slick--main" data-blazy="" id="slick-paragraph-gallery-media-items-gallery-carousel-11-1"&gt;
-      &lt;div id="slick-paragraph-gallery-media-items-gallery-carousel-11-1-slider" data-slick="{"asNavFor":"#slick-paragraph-gallery-media-items-gallery-carousel-11-1-thumbnail-slider","adaptiveHeight":true,"lazyLoad":"blazy","count":5}" class="slick__slider"&gt;
+    &lt;div class="slick blazy slick--field slick--field-media-items slick--field-media-items--gallery-carousel slick--skin--default slick--optionset--ezcontent-setting slick--main" data-blazy="" id="slick-paragraph-gallery-media-items-gallery-carousel-11-2"&gt;
+      &lt;div id="slick-paragraph-gallery-media-items-gallery-carousel-11-2-slider" data-slick="{"asNavFor":"#slick-paragraph-gallery-media-items-gallery-carousel-11-2-thumbnail-slider","adaptiveHeight":true,"lazyLoad":"blazy","count":5}" class="slick__slider"&gt;
   
       
   &lt;div class="slick__slide slide slide--0"&gt;
@@ -344,8 +346,8 @@ Create content with utmost ease! &lt;/p&gt;&lt;/div&gt;
           &lt;nav role="navigation" class="slick__arrow"&gt;&lt;button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0"&gt;Previous&lt;/button&gt;
                 &lt;button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0"&gt;Next&lt;/button&gt;
       &lt;/nav&gt;&lt;/div&gt;
-&lt;div class="slick slick--skin--asnavfor slick--optionset--ezcontent-dots slick--thumbnail slick--multiple-view slick--less" id="slick-paragraph-gallery-media-items-gallery-carousel-11-1-thumbnail"&gt;
-      &lt;div id="slick-paragraph-gallery-media-items-gallery-carousel-11-1-thumbnail-slider" data-slick="{"asNavFor":"#slick-paragraph-gallery-media-items-gallery-carousel-11-1-slider","adaptiveHeight":true,"centerMode":true,"centerPadding":"0","dots":true,"dotsClass":"slick-dots--thumbnail-grid slick-dots d-none","focusOnSelect":true,"mouseWheel":true,"slide":".slick__slide","slidesToShow":20,"useTransform":false,"easing":"","waitForAnimate":false}" class="slick__slider"&gt;
+&lt;div class="slick slick--skin--asnavfor slick--optionset--ezcontent-dots slick--thumbnail slick--multiple-view slick--less" id="slick-paragraph-gallery-media-items-gallery-carousel-11-2-thumbnail"&gt;
+      &lt;div id="slick-paragraph-gallery-media-items-gallery-carousel-11-2-thumbnail-slider" data-slick="{"asNavFor":"#slick-paragraph-gallery-media-items-gallery-carousel-11-2-slider","adaptiveHeight":true,"centerMode":true,"centerPadding":"0","dots":true,"dotsClass":"slick-dots--thumbnail-grid slick-dots d-none","focusOnSelect":true,"mouseWheel":true,"slide":".slick__slide","slidesToShow":20,"useTransform":false,"easing":"","waitForAnimate":false}" class="slick__slider"&gt;
   
         &lt;div class="slick__slide slide slide--0"&gt;
           &lt;div class="slide__thumbnail"&gt;&lt;img src="https://adorable-biscuit-1c9bf2.netlify.app/sites/default/files/styles/gallery/public/2023-03/herooo222_0.png?itok=9Zd9kx3B" width="300" height="250" alt="zk" loading="lazy" typeof="foaf:Image" /&gt;&lt;/div&gt;
@@ -383,9 +385,9 @@ Create content with utmost ease! &lt;/p&gt;&lt;/div&gt;
     <guid isPermaLink="false">4 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
     </item>
 <item>
-  <title>EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers</title>
-  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/ezcontent-intelligent-drupal-distro-publishers-marketers</link>
-  <description>&lt;span&gt;EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers&lt;/span&gt;
+  <title>EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers New </title>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/ezcontent-intelligent-drupal-distro-publishers-marketers-new</link>
+  <description>&lt;span&gt;EzContent, an intelligent Drupal Distro for Publishers &amp; Marketers New &lt;/span&gt;
 &lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Wed, 03/15/2023 - 05:15&lt;/span&gt;
 
