@@ -64,7 +64,7 @@ Home
   </li>
   <li class="nav-item">
     
-<a href="/article/ezcontent-intelligent-drupal-distro-publishers-marketers"  class="nav-link"   key=1    >
+<a href="/article/ezcontent-intelligent-drupal-distro-publishers-marketers-new"  class="nav-link"   key=1    >
 An intelligent Drupal Distro for Publishers &amp; Marketers
 </a>
   </li>
@@ -110,7 +110,7 @@ EzContent Utilize
       A unique machine-readable name. Can only contain lowercase letters, numbers, and underscores.
     </div>
   </div>
-<input autocomplete="off" data-drupal-selector="form-uia5pkpi4smlczdlpn3xonqnukqgirskb43ehjryjpm" type="hidden" name="form_build_id" value="form-uIA5pkpI4SMlczdlPN3XOnQnuKQgirSkb43EHjRyjPM" />
+<input autocomplete="off" data-drupal-selector="form-uvw1u089ia0chycaunevczpwynx-vhya-rahnk29wmy" type="hidden" name="form_build_id" value="form-UvW1U089iA0ChycauneVcZPWYnx_VhYA-rAhnK29wMY" />
 <input data-drupal-selector="edit-entity-form-mode-edit-form" type="hidden" name="form_id" value="entity_form_mode_edit_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Save" class="button button--primary js-form-submit form-submit" />
 <a href="/admin/structure/display-modes/form/manage/media.inline/delete" class="button button--danger" data-drupal-selector="edit-delete" id="edit-delete">Delete</a></div>
@@ -139,11 +139,11 @@ EzContent Utilize
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/form\/manage\/media.inline","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"MKL39zAkVQZcPAvmdBaJQcEE3cLAyualvFYIzY5GCb4"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
-<script src="/sites/default/files/js/js_WkRosCYl7lFYrb3G4NKDyBFrUBOK8PQwDoDNd54Optc.js"></script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/form\/manage\/media.inline","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"OB03E4ysIKn2kIa98fKxvhFjvtRdXsQz-hrhSrBh3xY"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
+<script src="/sites/default/files/js/js_0fljeJ8pAkelcGVlw79GjDd0ESsgViR7ZTkgpfeSAys.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<script src="/sites/default/files/js/js_QTr92hjLXKfuqAlnBAc-WekQDT8W21v2r01BhPcfr7s.js"></script>
+<script src="/sites/default/files/js/js_92y5zNPEcE8F7JclgilpwblVCmf5tcCedIzOmhfGS8U.js"></script>
 
   </body>
 </html>

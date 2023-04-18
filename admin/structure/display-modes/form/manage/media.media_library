@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
 
-    <title>Are you sure you want to delete the form mode Media library? | Drupal9</title>
+    <title>Edit form mode | Drupal9</title>
     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_3SUE3sJxOjFN90Avo4wiWu8IHrtJWeJFlloyWrJhs94.css" />
 <link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sCUCWrPRg5kldFzKGcFMEYfa9Y14Vl95QNgNfYQ-kS0.css" />
@@ -64,7 +64,7 @@ Home
   </li>
   <li class="nav-item">
     
-<a href="/article/ezcontent-intelligent-drupal-distro-publishers-marketers"  class="nav-link"   key=1    >
+<a href="/article/ezcontent-intelligent-drupal-distro-publishers-marketers-new"  class="nav-link"   key=1    >
 An intelligent Drupal Distro for Publishers &amp; Marketers
 </a>
   </li>
@@ -95,13 +95,25 @@ EzContent Utilize
                             <section class="section">
                   <a id="main-content" tabindex="-1"></a>
                     <div>
-    <form class="entity-form-mode-delete-form entity-form-mode-confirm-form confirmation" data-drupal-selector="entity-form-mode-delete-form" action="/admin/structure/display-modes/form/manage/media.media_library/delete" method="post" id="entity-form-mode-delete-form" accept-charset="UTF-8">
-  Deleting a form mode will cause any output still requesting to use that form mode to use the default display settings.<input data-drupal-selector="edit-confirm" type="hidden" name="confirm" value="1" />
-<input autocomplete="off" data-drupal-selector="form-wko-lp0v3sakngkzl5zghu5axiwfrgl0g-rehmn0na" type="hidden" name="form_build_id" value="form--wkO_Lp0V3saKNGKZl5zgHu5AXiwFrgl0g_REHMN0NA" />
-<input data-drupal-selector="edit-entity-form-mode-delete-form" type="hidden" name="form_id" value="entity_form_mode_delete_form" />
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Delete" class="button button--primary js-form-submit form-submit" />
-<a href="/admin/structure/display-modes/form" class="button" data-drupal-selector="edit-cancel" id="edit-cancel">Cancel</a></div>
+    <form class="entity-form-mode-edit-form entity-form-mode-form" data-drupal-selector="entity-form-mode-edit-form" action="/admin/structure/display-modes/form/manage/media.media_library" method="post" id="entity-form-mode-edit-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-label js-form-item-label">
+      <label for="edit-label">Name</label>
+        <input data-drupal-selector="edit-label" type="text" id="edit-label" name="label" value="Media library" size="60" maxlength="100" class="form-text" />
 
+      <span class="field-suffix"> <small id="edit-label-machine-name-suffix">&nbsp;</small></span>
+        </div>
+<div class="js-form-item form-item js-form-type-machine-name form-item-id js-form-item-id form-disabled">
+      <label for="edit-id" class="js-form-required form-required">Machine-readable name</label>
+        <input data-drupal-selector="edit-id" aria-describedby="edit-id--description" disabled="disabled" dir="ltr" type="text" id="edit-id" name="id" value="media.media_library" size="60" maxlength="64" class="form-text required" required="required" aria-required="true" />
+
+            <div id="edit-id--description" class="description">
+      A unique machine-readable name. Can only contain lowercase letters, numbers, and underscores.
+    </div>
+  </div>
+<input autocomplete="off" data-drupal-selector="form-u4dgyvxrditzhztblvkhtmr3o-foyo-4lj6cft-j1-s" type="hidden" name="form_build_id" value="form-U4DgYvXRditZHztBLvKHTMR3o_FoYo-4Lj6CfT-j1_s" />
+<input data-drupal-selector="edit-entity-form-mode-edit-form" type="hidden" name="form_id" value="entity_form_mode_edit_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Save" class="button button--primary js-form-submit form-submit" />
+<a href="/admin/structure/display-modes/form/manage/media.media_library/delete" class="button button--danger" data-drupal-selector="edit-delete" id="edit-delete">Delete</a></div>
 
 </form>
 
@@ -127,11 +139,11 @@ EzContent Utilize
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/form\/manage\/media.media_library\/delete","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
-<script src="/sites/default/files/js/js_LGI4esLrwXjRCLyHSXVD_k00kGg-A09kdzvGXq0-23I.js"></script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/display-modes\/form\/manage\/media.media_library","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"formtips":{"selectors":[""],"interval":500,"sensitivity":3,"timeout":1000,"max_width":"500px","trigger_action":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"machineName":{"#edit-label":{"replace_pattern":"[^a-z0-9_.]+","target":"#edit-id","label":"Machine name","replace":"_","field_prefix":"","field_suffix":"","suffix":"#edit-label-machine-name-suffix","replace_token":"OB03E4ysIKn2kIa98fKxvhFjvtRdXsQz-hrhSrBh3xY"}},"langcode":"en","user":{"uid":0,"permissionsHash":"13092045e22e678e23447eb16d11163e3f8a7b9310f8c01dd0f7c89fd35988d4"}}</script>
+<script src="/sites/default/files/js/js_0fljeJ8pAkelcGVlw79GjDd0ESsgViR7ZTkgpfeSAys.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<script src="/sites/default/files/js/js_cAteaVIdMAvg8VwJFkLkKjeUQW-13Mu6jI77Kj8RPK4.js"></script>
+<script src="/sites/default/files/js/js_92y5zNPEcE8F7JclgilpwblVCmf5tcCedIzOmhfGS8U.js"></script>
 
   </body>
 </html>
