@@ -7,6 +7,88 @@
     <language>en</language>
     
     <item>
+  <title>Demo Page</title>
+  <link>https://adorable-biscuit-1c9bf2.netlify.app/article/demo-page</link>
+  <description>&lt;span&gt;Demo Page&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://adorable-biscuit-1c9bf2.netlify.app/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;abhi&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Tue, 04/18/2023 - 10:46&lt;/span&gt;
+
+						&lt;div class="field field--name-field-social-sharing field--type-social-media field--label-hidden field__item"&gt;&lt;section class="block block-social-media block-social-sharing-block clearfix"&gt;&lt;div class="social-media-sharing"&gt;
+  &lt;ul class=""&gt;&lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="http://www.facebook.com/share.php?u=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=" title="Facebook"&gt;
+                      &lt;img alt="Facebook" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_share.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="facebook-msg share" onclick="FB.ui({method: 'send',link: 'https://adorable-biscuit-1c9bf2.netlify.app/rss.xml'})" title="Facebook messenger"&gt;
+                      &lt;img alt="Facebook messenger" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/facebook_msg.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="linkedin share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;title=&amp;source=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Linkedin"&gt;
+                      &lt;img alt="Linkedin" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/linkedin.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;hashtags=Hashtag" title="Twitter"&gt;
+                      &lt;img alt="Twitter" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/twitter.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a target="_blank" rel="noopener noreferrer" class="pinterest share" href="https://www.pinterest.com/pin/create/button/?url=https://adorable-biscuit-1c9bf2.netlify.app/rss.xml&amp;description=" title="Pinterest"&gt;
+                      &lt;img alt="Pinterest" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/pinterest.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+                &lt;li&gt;
+        &lt;a class="email share" href="mailto:?subject=&amp;body=Check out this site https://adorable-biscuit-1c9bf2.netlify.app/rss.xml" title="Email"&gt;
+                      &lt;img alt="Email" src="https://adorable-biscuit-1c9bf2.netlify.app/modules/contrib/social_media/icons/email.svg" /&gt;&lt;/a&gt;
+
+      &lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+
+
+  &lt;/section&gt;&lt;/div&gt;
+			
+			&lt;div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items"&gt;
+							&lt;div class="field__item"&gt;
+
+  &lt;div class="paragraph paragraph--type--map paragraph--view-mode--default"&gt;
+    
+          &lt;div class="map-component"&gt;
+  
+&lt;h2 class="field--name-field-title"&gt;
+      Ontario
+  &lt;/h2&gt;
+
+  
+&lt;h4 class="field--name-field-short-title"&gt;
+      
+  &lt;/h4&gt;
+
+  
+    &lt;iframe class="w-100" src="https://maps.google.com/maps?hl=en&amp;q=Ontario&amp;t=m&amp;z=14&amp;output=embed" height="410"&gt;
+    map   &lt;/iframe&gt;
+
+	
+
+  &lt;p class="field--name-field-body"&gt;A paragraph (from the Greek paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.&lt;/p&gt;
+
+      &lt;div class="w-100 text-right field--name-field-link"&gt;
+      
+&lt;a href="" class="rounded-0"&gt;
+
+&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+					&lt;/div&gt;
+	</description>
+  <pubDate>Tue, 18 Apr 2023 10:46:54 +0000</pubDate>
+    <dc:creator>abhi</dc:creator>
+    <guid isPermaLink="false">22 at https://adorable-biscuit-1c9bf2.netlify.app</guid>
+    </item>
+<item>
   <title>Lorem Ipsum</title>
   <link>https://adorable-biscuit-1c9bf2.netlify.app/article/lorem-ipsum</link>
   <description>&lt;span&gt;Lorem Ipsum&lt;/span&gt;
